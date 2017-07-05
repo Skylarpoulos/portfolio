@@ -1,0 +1,17 @@
+h1 {
+    font-family: cursive;
+    color: pink;
+    text-align: center;
+    text-shadow: 3px 2px blue;
+}
+h2 {
+  font-family: verdana;
+  color: pink;
+  text-align: center;
+}
+img {
+  height: 20 px;
+  width: 20%;
+  display: block;
+  margin: auto;
+}
